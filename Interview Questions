@@ -1,0 +1,39 @@
+Q. what is Terraform drift detection.
+Q. what is Terraform docs
+Q. what is code security in Terraform using checkov and is there any other way to secure
+Q. what happen when we lost state-file
+Q. What are all the ways to retrieve the terraform statefile and Security for statefile
+Q. How will handle state lock occur what are the warning notification
+Q. How will you update the state-file manually
+Q. How nested blocks were handled in terraform
+Q. How will you use the existing resource from the console in your terraform code
+Q. How will you handle rollback in IAC
+Q. is it possible to attach a two different iam policy to the people present in same group in IAM ? if yes how
+Q. where will you use ALB and NLB
+Q. What is features in ALB
+Q. want to provide the access to user in account B to Access the service in account A in AWS is it possible ? if yes how
+Q. how will you back up s3
+Q. what is best way to secure s3 iam level or ACL bucket policy level
+Q. what if we are out of subnet range to add resource
+Q. is there any way to get internet access for your resource without nat gate way
+Q. is possible to provide access to your aws account without having access and secret key
+Q. what is site to site vpn connection establishment setting
+Q. How to estimate budget for your infra structure
+Q. How to take back up s3
+Q. what kind of microservices have you enabled
+Q. Terraform statefile deleted
+Q. Terraform refresh
+Q. if 10000 ec2 instance and you need to install some dependencies or servers or packages
+Q. Which mandatory roles or permissions are needed for lambda executions
+Q. Lambda accessing s3, if we are getting access denied what could be the issue
+Q. when we will go with ECS and EKS
+Q. We are creating a resource by using terraform, those resource shoud not delete
+Q. In Github code harcoded the secrete value, to identify that automatically which options will help Dynamic configuration in terraform.
+Q. About state file crash
+Q. About terraform import
+Q. what is Terraform components?
+Q. I am not able to access s3 from my EC2, what might be the reasons?
+Q. what is Cross account access in aws
+Q. What are resource policies
+Q. Diff between terraform lint and validate
+Q. What is state locking
